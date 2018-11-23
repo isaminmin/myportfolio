@@ -1,0 +1,108 @@
+body {
+  background-color: #fff3f5;
+}
+
+.avatar {
+  width: 50px;
+}
+
+/* header */
+
+.banner-content {
+  font-family: "Railway", sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 0.15em;
+  margin-top: 190px;
+  margin-bottom: 190px;
+}
+
+.banner-content h1 {
+  font-size: 126px;
+}
+
+@media (max-width: 1200px) {
+  .banner-content h1 {
+    font-size: 100px;
+  }
+}
+
+@media (max-width: 900px) {
+  .banner-content h1 {
+    font-size: 80px;
+  }
+}
+
+@media (max-width: 750px) {
+  .banner-content h1 {
+    font-size: 32px;
+  }
+}
+
+.underline {
+  border-bottom: 4px solid #bababa;
+  display: inline-block;
+  line-height: 2;
+}
+
+.recent {
+  text-align: center;
+  background: #DCDCDC;
+  padding-bottom: 0.90em;
+  padding-top: 0.90em;
+  margin-top: 140px;
+  margin-bottom: 0;
+}
+
+/* SECTION PROJECTS */
+#projects
+.container-1 {
+  background: #FFFFE0;
+  padding: 50px 25px;
+  border: 3px solid grey;
+  margin-top: 5px;
+}
+.container-2 {
+  background: #FFFFE0;
+  padding: 50px 25px;
+  border: 3px solid grey;
+  margin-top: 5px;
+}
+.container-3 {
+  background: #FFFFE0;
+  padding: 50px 25px;
+  border: 3px solid grey;
+  margin-top: 5px;
+}
+.container-4 {
+  background: #fff3f5	;
+  padding: 50px 25px;
+  margin-top: 200px;
+}
+.card-image {
+  margin: 10px;
+}
+
+.card-content>p {
+  font-size: 20px;
+  font-family: "Railway", sans-serif;
+  text-align: left;
+  color: #696969;
+}
+
+.card-content>h2 {
+  font-family: "Railway", sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+.mybutton {
+  background-color: grey!important;
+  border: none;
+  float: right;
+}
+
+.mybutton:hover {
+  background-color: grey!important;
+}
