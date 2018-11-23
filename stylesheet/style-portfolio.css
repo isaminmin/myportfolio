@@ -9,13 +9,12 @@ body {
 /* header */
 
 .banner-content {
-  font-family: "Railway", sans-serif;
-  font-weight: 800;
+  font-family: "Railway";
+  font-weight: 600;
   font-size: 40px;
   text-align: center;
-  padding-bottom: 0.15em;
-  margin-top: 190px;
-  margin-bottom: 190px;
+  margin-top: 315px;
+  margin-bottom: 315px;
 }
 
 .banner-content h1 {
@@ -43,13 +42,13 @@ body {
 .underline {
   border-bottom: 4px solid #bababa;
   display: inline-block;
-  line-height: 2;
 }
 
 .recent {
   text-align: center;
-  background: #DCDCDC;
-  padding-bottom: 0.90em;
+    font-family: "Railway";
+  background: #F5F5F5;
+  padding-bottom: 0.9em;
   padding-top: 0.90em;
   margin-top: 140px;
   margin-bottom: 0;
@@ -60,19 +59,19 @@ body {
 .container-1 {
   background: #FFFFE0;
   padding: 50px 25px;
-  border: 3px solid grey;
+  border: 2px solid grey;
   margin-top: 5px;
 }
 .container-2 {
   background: #FFFFE0;
   padding: 50px 25px;
-  border: 3px solid grey;
+  border: 2px solid grey;
   margin-top: 5px;
 }
 .container-3 {
   background: #FFFFE0;
   padding: 50px 25px;
-  border: 3px solid grey;
+  border: 2px solid grey;
   margin-top: 5px;
 }
 .container-4 {
@@ -86,13 +85,13 @@ body {
 
 .card-content>p {
   font-size: 20px;
-  font-family: "Railway", sans-serif;
+  font-family: "Railway";
   text-align: left;
   color: #696969;
 }
 
 .card-content>h2 {
-  font-family: "Railway", sans-serif;
+  font-family: "Railway";
   font-size: 40px;
   text-align: center;
 }
